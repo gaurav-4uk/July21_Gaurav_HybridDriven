@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27554" started-at="2021-11-06T15:59:40Z" finished-at="2021-11-06T16:00:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27554" started-at="2021-11-06T15:59:40Z" finished-at="2021-11-06T16:00:08Z">
+      <class name="com.technocredits.orghrm.testscripts.PIM_EmployeeListTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.technocredits.orghrm.testscripts.PIM_EmployeeListTest@29774679]" name="Login" is-config="true" duration-ms="19281" started-at="2021-11-06T15:59:40Z" finished-at="2021-11-06T16:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="verifyAddedEmployee()[pri:0, instance:com.technocredits.orghrm.testscripts.PIM_EmployeeListTest@29774679]" name="verifyAddedEmployee" duration-ms="7433" started-at="2021-11-06T16:00:00Z" finished-at="2021-11-06T16:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddedEmployee -->
+        <test-method status="PASS" signature="teardonw()[pri:0, instance:com.technocredits.orghrm.testscripts.PIM_EmployeeListTest@29774679]" name="teardonw" is-config="true" duration-ms="779" started-at="2021-11-06T16:00:07Z" finished-at="2021-11-06T16:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardonw -->
+      </class> <!-- com.technocredits.orghrm.testscripts.PIM_EmployeeListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
